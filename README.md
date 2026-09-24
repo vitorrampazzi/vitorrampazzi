@@ -1,71 +1,98 @@
-# 👋 Olá! Eu sou o Vitor Rampazzi.
+# 👋 Olá! Eu sou o Vitor Rampazzi
 
-🎓 Estudante de **Engenharia de Software** na **FIAP**  
-🚀 Apaixonado por tecnologia, desenvolvimento de software e por aprender coisas novas todos os dias!  
-🌍 Em busca de fluência em inglês para expandir meus horizontes e quem sabe trabalhar fora futuramente.
+🎓 Estudante de **Engenharia de Software** na **FIAP**
+🚀 Apaixonado por tecnologia, desenvolvimento de software e por aprender coisas novas todos os dias!
+🌍 Em busca de fluência em inglês para expandir meus horizontes e, futuramente, trabalhar internacionalmente.
 
 ---
 
 ## 🧠 Atualmente estudando
 
-- Java | Spring Boot
-- HTML, CSS, JavaScript
-- React | Vue.js
-- Salesforce (Developer & Admin – Trailhead)
-- SAP (primeiros contatos)
-- Banco de Dados (SQL, PostgreSQL)
-- Inglês (Cultura Inglesa)
-- Git e GitHub (vários commits por aqui 👇)
+* ☕ Java | Spring Boot
+* 🌐 HTML | CSS | JavaScript
+* ⚛️ React | Vue.js
+* ☁️ Salesforce — Developer & Admin
+* 🏢 SAP
+* 🗄️ SQL | PostgreSQL
+* 🔧 Git | GitHub
+* 🇺🇸 Inglês — Cultura Inglesa
 
 ---
 
 ## 📊 Minhas estatísticas no GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorrampazzi&show_icons=true&theme=tokyonight&hide_title=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vitorrampazzi&show_icons=true&theme=tokyonight&hide_title=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrampazzi&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrampazzi&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight)](https://git.io/streak-stats)
-
-
----
-
-## 🛠️ Tecnologias que uso e estudo
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vitorrampazzi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
 ---
 
-## 📈 Meus Contribs Recentes
+## 🛠️ Tecnologias
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
 
 ---
 
-## 💬 Sobre mim
+## 💻 Projetos
 
-- Sempre buscando novos desafios 👨‍💻  
-- Foco em me tornar um engenheiro de software completo  
-- Pretendo fazer uma pós-graduação após concluir a FIAP  
-- E claro, adoro resolver problemas com código!
+🚀 **Evorix Finance**
+Aplicação voltada para acompanhamento e análise do mercado financeiro.
+
+⚽ **Passa a Bola**
+Projeto voltado ao futebol feminino, com uma proposta inspirada em redes profissionais para conectar atletas e oportunidades.
+
+🌊 **AqualertPro**
+Projeto focado no monitoramento e prevenção de enchentes utilizando tecnologia e dados.
+
+---
+
+## 📈 Minha jornada
+
+* 👨‍💻 Sempre buscando novos desafios
+* 📚 Aprendendo e colocando novos conhecimentos em prática
+* 🚀 Foco em me tornar um engenheiro de software completo
+* 🎓 Pretendo realizar uma pós-graduação após concluir a FIAP
+* 🌎 Buscando desenvolver meu inglês para oportunidades internacionais
+* 💡 Gosto de transformar problemas em soluções através do código
 
 ---
 
 ## 📫 Vamos conversar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-rampazzi)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitor.rampazzi@gmail.com)
+<p align="left">
+
+<a href="https://www.linkedin.com/in/vitor-rampazzi">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vitor.rampazzi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-_✨ Muito obrigado por visitar meu perfil! 🚀_
+<p align="center">
+  <i>✨ Muito obrigado por visitar meu perfil! 🚀</i>
+</p>
